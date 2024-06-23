@@ -7,6 +7,7 @@ import su.nexmedia.engine.utils.StringUtil;
 public enum Version {
 
     // KEEP VERSIONS LIST FROM SMALLER TO GREATER
+    V1_16_R3("1.16.5"),
     V1_17_R1("1.17.1", true),
     V1_18_R2("1.18.2"),
     @Deprecated V1_19_R1("1.19.2", true),
